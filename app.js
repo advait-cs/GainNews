@@ -59,7 +59,3 @@ app.post("/",function(req,res){
   });
 });
 
-//API KEY
-//87ed5a4c63728878f173ca6ed26d5f8f-us6
-//list id
-//3e8cd08070

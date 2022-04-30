@@ -1,6 +1,6 @@
 # GainNews
 GainNews is a newsletter signup website made using nodejs as a backend.
 
-CHECK OUT THE WEBSITE WHICH IS DEPLOYED ON HEROKU->
+Check out the website:
 
 http://gainnews.herokuapp.com/
